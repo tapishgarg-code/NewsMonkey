@@ -1,2 +1,2 @@
 # NewsMonkey
-React Bases API Project
+React Based API Project
